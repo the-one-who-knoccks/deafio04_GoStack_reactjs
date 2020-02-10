@@ -10,5 +10,5 @@ As informações contidas na interface são estáticas e não precisam refletir 
 
 # Tela da aplicação 
 
-<img src="prev.png">
+<img src="preview.png">
 </br>
