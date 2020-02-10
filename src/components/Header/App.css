@@ -1,0 +1,26 @@
+header.header {
+  height: 64px;
+  background-color: #4a90e2;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h2 {
+  margin-left: 25px;
+}
+
+div.profile {
+  margin-right: 25px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div strong {
+  margin-right: 10px;
+  font-weight: 600;
+  font-size: 14px;
+}
