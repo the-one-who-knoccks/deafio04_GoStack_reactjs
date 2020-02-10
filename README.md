@@ -1,4 +1,4 @@
-# Desafio de número 04 do bootcamp GoStack da Rocketseat ::rocket::
+# Desafio de número 04 do bootcamp GoStack da Rocketseat rocket
 
 # Objetivos:
 
