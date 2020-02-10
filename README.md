@@ -1,8 +1,6 @@
-# deafio04_GoStack_reactjs
-
 # Desafio de número 04 do bootcamp GoStack da rocketseat
 
-#Objetivos:
+# Objetivos:
 
 Crie uma aplicação do zero utilizando Webpack, Babel, Webpack Dev Server e ReactJS.
 
