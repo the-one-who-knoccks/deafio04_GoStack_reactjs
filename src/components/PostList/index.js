@@ -41,7 +41,7 @@ export default class PostList extends Component {
               name: "Ana Beatriz",
               avatar: "https://api.adorable.io/avatars/67/Ana.png"
             },
-            content: "Olá, Gabril! Que bacana, também estou fazendo o Bootcamp e estou amando. E a melhor stack, sem duvidas é a do Nodejs, Reactjs e React-native! rsrs"
+            content: "Olá, Gabriel! Que bacana, também estou fazendo o Bootcamp e estou amando. E a melhor stack, sem dúvidas é a do Nodejs, Reactjs e React-native! rsrs"
           },
           {
             id: 2,
